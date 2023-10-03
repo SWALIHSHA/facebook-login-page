@@ -1,0 +1,37 @@
+.main{
+    height: 750px;
+    width: 100%;
+    background: hotpink;
+    display: flex;
+}
+.second{
+    height: 500px;
+    width: 50%;
+    background: rgb(248, 246, 246);
+    text-align: center;
+    margin-bottom: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 5px;
+    margin: auto;
+    align-items: center;
+
+}
+.first{
+    height: 30px;
+    width: 175px;
+
+} 
+.sur{
+    height: 30px;
+
+}
+.mob{
+    width: 350px;
+    height: 30px;
+}
+.newp{
+    height: 30px;
+    width:350px ;
+}
+
